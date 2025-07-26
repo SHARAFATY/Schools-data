@@ -1,0 +1,474 @@
+## Schools to Research
+
+- [ ] Staplehurst School
+- [X] Sutton Valence Primary School
+- [X] Eastling Primary School
+- [X] Ethelbert Road Primary School
+- [X] Davington Primary School
+- [X] Lower Halstow Primary School
+- [X] Rodmersham School
+- [X] Rose Street Primary School
+- [X] Canterbury Road Primary School
+- [X] Blean Primary School
+- [X] Herne Bay Infant School
+- [X] Hoath Primary School
+- [X] Westmeads Community Infant School
+- [X] Whitstable Junior School
+- [X] Aldington Primary School
+- [X] Victoria Road Primary School
+- [X] Willesborough Infant School
+- [X] Willesborough Junior School
+- [X] Bethersden Primary School
+- [X] Brook Community Primary School
+- [X] Challock Primary School
+- [X] Great Chart Primary School
+- [X] Mersham Primary School
+- [X] Smeeth Community Primary School
+- [X] Hawkinge Primary School
+- [X] Sellindge Primary School
+- [X] River Primary School
+- [X] Langdon Primary School
+- [X] Eythorne Elvington Community Primary School
+- [X] Lydden Primary School
+- [X] Preston Primary School
+- [X] Wingham Primary School
+- [X] St Mildred's Primary Infant School
+- [X] Callis Grange Nursery and Infant School
+- [X] St Crispin's Community Primary Infant School
+- [X] Ellington Infant School
+- [X] Priory Infant School
+- [X] Shears Green Junior School
+- [X] West Minster Primary School
+- [X] Aycliffe Community Primary School
+- [X] Riverhead Infants' School
+- [X] Claremont Primary School
+- [X] Whitfield Aspen School
+- [X] St Paul's Infant School
+- [X] Langton Green Primary School
+- [X] Bishops Down Primary and Nursery School
+- [X] Singlewell Primary School
+- [X] Cheriton Primary School
+- [X] Brookfield Infant School
+- [X] Vigo Village School
+- [X] Madginford Primary School
+- [X] Palmarsh Primary School
+- [X] Painters Ash Primary School
+- [X] Tunbury Primary School
+- [X] St Margaret's-at-Cliffe Primary School
+- [X] Stocks Green Primary School
+- [X] Sandgate Primary School
+- [X] Sandling Primary School
+- [X] Capel-le-Ferne Primary School
+- [X] Lunsford Primary School
+- [X] Downs View Infant School
+- [X] Kingswood Primary School
+- [X] Senacre Wood Primary School
+- [X] Bromstone Primary School, Broadstairs
+- [X] Parkside Community Primary School
+- [X] High Firs Primary School
+- [X] Sandwich Junior School
+- [X] Sevenoaks Primary School
+- [ ] Swalecliffe Community Primary School
+- [ ] Broadwater Down Primary School
+- [ ] West Borough Primary School
+- [ ] Long Mead Community Primary School
+- [ ] King's Farm Primary School
+- [ ] St Pauls' Church of England Voluntary Controlled Primary School
+- [ ] Fawkham Church of England Voluntary Controlled Primary School
+- [ ] Benenden Church of England Primary School
+- [ ] Bidborough Church of England Voluntary Controlled Primary School
+- [ ] Cranbrook Church of England Primary School
+- [ ] Goudhurst and Kilndown Church of England Primary School
+- [ ] Hawkhurst Church of England Primary School
+- [ ] Hildenborough Church of England Primary School
+- [ ] Lamberhurst St Mary's CofE (Voluntary Controlled) Primary School
+- [ ] St John's Church of England Primary School, Sevenoaks
+- [ ] Speldhurst Church of England Voluntary Aided Primary School
+- [ ] Sundridge and Brasted Church of England Voluntary Controlled Primary School
+- [ ] St John's Church of England Primary School
+- [ ] St Mark's Church of England Primary School
+- [ ] St Peter's Church of England Primary School
+- [ ] Crockham Hill Church of England Voluntary Controlled Primary School
+- [ ] Churchill Church of England Voluntary Controlled Primary School
+- [ ] St Peter's Church of England Primary School
+- [ ] Bredhurst Church of England Voluntary Controlled Primary School
+- [ ] Burham Church of England Primary School
+- [ ] Harrietsham Church of England Primary School
+- [ ] Leeds and Broomfield Church of England Primary School
+- [ ] Maidstone, St Michael's Church of England Junior School
+- [ ] St Michael's Church of England Infant School Maidstone
+- [ ] Thurnham Church of England Infant School
+- [ ] Trottiscliffe Church of England Primary School
+- [ ] Ulcombe Church of England Primary School
+- [ ] Wateringbury Church of England Primary School
+- [ ] Wouldham, All Saints Church of England Voluntary Controlled Primary School
+- [ ] St George's Church of England Voluntary Controlled Primary School
+- [ ] St Margaret's, Collier Street Church of England Voluntary Controlled School
+- [ ] Laddingford St Mary's Church of England Voluntary Controlled Primary School
+- [ ] Yalding, St Peter and St Paul Church of England Voluntary Controlled Primary School
+- [ ] Ospringe Church of England Primary School
+- [ ] Hernhill Church of England Primary School
+- [ ] Newington Church of England Primary School
+- [ ] Teynham Parochial Church of England Primary School
+- [ ] Barham Church of England Primary School
+- [ ] Bridge and Patrixbourne Church of England Primary School
+- [ ] Chislet Church of England Primary School
+- [ ] Littlebourne Church of England Primary School
+- [ ] St Alphege Church of England Infant School
+- [ ] Wickhambreaux Church of England Primary School
+- [ ] Brabourne Church of England Primary School
+- [ ] Brookland Church of England Primary School
+- [ ] Chilham, St Mary's Church of England Primary School
+- [ ] High Halden Church of England Primary School
+- [ ] Woodchurch Church of England Primary School
+- [ ] Bodsham Church of England Primary School
+- [ ] Folkestone, St Martin's Church of England Primary School
+- [ ] Folkestone, St Peter's Church of England Primary School
+- [ ] Seabrook Church of England Primary School
+- [ ] Lyminge Church of England Primary School
+- [ ] Lympne Church of England Primary School
+- [ ] Stelling Minnis Church of England Primary School
+- [ ] Stowting Church of England Primary School
+- [ ] Selsted Church of England Primary School
+- [ ] Eastry Church of England Primary School
+- [ ] Goodnestone Church of England Primary School
+- [ ] Guston Church of England Primary School
+- [ ] Nonington Church of England Primary School
+- [ ] Shepherdswell Church of England Primary School
+- [ ] Birchington Church of England Primary School
+- [ ] Margate, Holy Trinity and St John's Church of England Primary School
+- [ ] St Saviour's Church of England Junior School
+- [ ] Minster Church of England Primary School
+- [ ] Monkton Church of England Primary School
+- [ ] St Nicholas At Wade Church of England Primary School
+- [ ] Frittenden Church of England Primary School
+- [ ] Egerton Church of England Primary School
+- [ ] St Lawrence Church of England Primary School
+- [ ] Boughton-under-Blean and Dunkirk Primary School
+- [ ] Lady Joanna Thornhill Endowed Primary School
+- [ ] St Peter's Methodist Primary School
+- [ ] St Matthew's High Brooms Church of England Voluntary Controlled Primary School
+- [ ] Herne Church of England Infant and Nursery School
+- [ ] Langafel Church of England Voluntary Controlled Primary School
+- [ ] Southborough CofE Primary School
+- [ ] St Katharine's Knockholt Church of England Voluntary Aided Primary School
+- [ ] Chevening, St Botolph's Church of England Voluntary Aided Primary School
+- [ ] Colliers Green Church of England Primary School
+- [ ] Sissinghurst Voluntary Aided Church of England Primary School
+- [ ] Hever Church of England Voluntary Aided Primary School
+- [ ] Penshurst Church of England Voluntary Aided Primary School
+- [ ] Lady Boswell's Church of England Voluntary Aided Primary School, Sevenoaks
+- [ ] Ide Hill Church of England Primary School
+- [ ] St Barnabas CofE VA Primary School
+- [ ] St James' Church of England Voluntary Aided Primary School
+- [ ] Hunton Church of England Primary School
+- [ ] Platt Church of England Voluntary Aided Primary School
+- [ ] Bapchild and Tonge Church of England Primary School and Nursery
+- [ ] Hartlip Endowed Church of England Primary School
+- [ ] Tunstall Church of England (Aided) Primary School
+- [ ] Herne Church of England Junior School
+- [ ] Whitstable and Seasalter Endowed Church of England Junior School
+- [ ] Ashford, St Mary's Church of England Primary School
+- [ ] Wittersham Church of England Primary School
+- [ ] Elham Church of England Primary School
+- [ ] Saltwood CofE Primary School
+- [ ] Ash Cartwright and Kelsey Church of England Primary School
+- [ ] Dover, St Mary's Church of England Primary School
+- [ ] St Peter-in-Thanet CofE Junior School
+- [ ] Ramsgate, Holy Trinity Church of England Primary School
+- [ ] St Mary's Church of England Voluntary Aided Primary School
+- [ ] St Ethelbert's Catholic Primary School
+- [ ] St Anselm's Catholic Primary School
+- [ ] Our Lady's Catholic Primary School, Dartford
+- [ ] St Thomas' Catholic Primary School, Canterbury
+- [ ] Dartford Science & Technology College
+- [ ] Northfleet School for Girls
+- [ ] Tunbridge Wells Girls' Grammar School
+- [ ] Tunbridge Wells Grammar School for Boys
+- [ ] Dover Grammar School for Girls
+- [ ] Maidstone Grammar School
+- [ ] Maidstone Grammar School for Girls
+- [ ] Simon Langton Girls' Grammar School
+- [ ] The Judd School
+- [ ] Snodland CofE Primary School
+- [ ] Borough Green Primary School
+- [ ] Roseacre Junior School
+- [ ] Herne Bay Junior School
+- [ ] St Francis' Catholic Primary School, Maidstone
+- [ ] Ditton Infant School
+- [ ] Holy Trinity Church of England Primary School, Dartford
+- [ ] Greatstone Primary School
+- [ ] Wincheap Foundation Primary School
+- [ ] Brookfield Junior School
+- [ ] Harcourt Primary School
+- [ ] Thamesview School
+- [ ] Simon Langton Grammar School for Boys
+- [ ] The Malling School
+- [ ] The Archbishop's School
+- [ ] Northfleet Technology College
+- [ ] Dover Grammar School for Boys
+- [ ] St John's Catholic Comprehensive
+- [ ] New Ash Green Primary School
+- [ ] St. Edmund's Church of England Primary School
+- [ ] Kings Hill School Primary and Nursery
+- [ ] Hythe Bay CofE Primary School
+- [ ] The Craylands School
+- [ ] Castle Hill Community Primary School
+- [ ] The John Wesley Church of England Methodist Voluntary Aided Primary School
+- [ ] Phoenix Community Primary School
+- [ ] The Discovery School
+- [ ] Downsview Community Primary School
+- [ ] Greenfields Community Primary School
+- [ ] Palace Wood Primary School
+- [ ] Hextable Primary School
+- [ ] Ashford Oaks Community Primary School
+- [ ] Joy Lane Primary Foundation School
+- [ ] Green Park Community Primary School
+- [ ] Garlinge Primary School and Nursery
+- [ ] The Marsh Academy
+- [ ] Sir Geoffrey Leigh Academy
+- [ ] Spires Academy
+- [ ] Cornwallis Academy
+- [ ] New Line Learning Academy
+- [ ] Longfield Academy
+- [ ] Skinners' Kent Academy
+- [ ] Knole Academy
+- [ ] Duke of York's Royal Military School
+- [ ] Wilmington Academy
+- [ ] Goat Lees Primary School
+- [ ] Westlands Primary School
+- [ ] Westlands School
+- [ ] The Canterbury Academy
+- [ ] Orchards Academy
+- [ ] Highsted Grammar School
+- [ ] Sandwich Technology School
+- [ ] Fulston Manor School
+- [ ] The Canterbury Primary School
+- [ ] Leigh Academy Tonbridge
+- [ ] Meopham Community Academy
+- [ ] Dartford Grammar School
+- [ ] Highworth Grammar School
+- [ ] Chatham & Clarendon Grammar School
+- [ ] St Stephen's Junior School
+- [ ] Tonbridge Grammar School
+- [ ] Weald of Kent Grammar School
+- [ ] Herne Bay High School
+- [ ] Amherst School
+- [ ] Sir Roger Manwood's School
+- [ ] Queen Elizabeth's Grammar School
+- [ ] Hartsdown Academy
+- [ ] Valley Park School
+- [ ] Invicta Grammar School
+- [ ] Towers School and Sixth Form Centre
+- [ ] King Ethelbert School
+- [ ] Dane Court Grammar School
+- [ ] Bennett Memorial Diocesan School
+- [ ] Oakwood Park Grammar School
+- [ ] Regis Manor Primary School
+- [ ] Mascalls Academy
+- [ ] St Augustine Academy
+- [ ] St Johns Church of England Primary School
+- [ ] Gravesend Grammar School
+- [ ] Hillview School for Girls
+- [ ] Horizon Primary Academy
+- [ ] Wilmington Grammar School for Boys
+- [ ] Wilmington Grammar School for Girls
+- [ ] Sheldwich Primary School
+- [ ] Brockhill Park Performing Arts College
+- [ ] Lynsted and Norton Primary School
+- [ ] Barton Court Grammar School
+- [ ] Selling Church of England Primary School
+- [ ] Milstead and Frinsted Church of England Primary School
+- [ ] Homewood School and Sixth Form Centre
+- [ ] Smarden Primary School
+- [ ] Ebbsfleet Academy
+- [ ] Maidstone, St John's Church of England Primary School
+- [ ] Joydens Wood Infant School
+- [ ] Joydens Wood Junior School
+- [ ] Wilmington Primary School
+- [ ] The Sittingbourne School
+- [ ] Chiddingstone Church of England School
+- [ ] Cranbrook School
+- [ ] Borden Grammar School
+- [ ] Repton Manor Primary School
+- [ ] The Maplesden Noakes School
+- [ ] Mayfield Grammar School, Gravesend
+- [ ] Wentworth Primary School
+- [ ] The Folkestone School for Girls
+- [ ] Graveney Primary School
+- [ ] Leigh Academy Oaks
+- [ ] Leigh Academy Tree Tops
+- [ ] Hampton Primary School
+- [ ] Pluckley Church of England Primary School
+- [ ] The Norton Knatchbull School
+- [ ] Luddenham School
+- [ ] St James the Great Academy
+- [ ] Grove Park Primary School
+- [ ] Astor Secondary School
+- [ ] White Cliffs Primary and Nursery School
+- [ ] Barton Junior School
+- [ ] Shatterlocks Infant and Nursery School
+- [ ] Leigh Academy Molehill
+- [ ] Tiger Primary School
+- [ ] Northdown Primary School
+- [ ] Newlands Primary School
+- [ ] Salmestone Primary School
+- [ ] The Harvey Grammar School
+- [ ] Water Meadows Primary School
+- [ ] St Laurence In Thanet Church of England Junior Academy
+- [ ] West Malling Church of England Primary School and McGinty Speech and Language Srp
+- [ ] Sturry Church of England Primary School
+- [ ] Dame Janet Primary Academy
+- [ ] Drapers Mills Primary Academy
+- [ ] Temple Grove Academy
+- [ ] Meopham School
+- [ ] Allington Primary School
+- [ ] Warden House Primary School
+- [ ] Chantry Community Primary School
+- [ ] Christ Church Church of England Junior School, Ramsgate
+- [ ] Christ Church Cep Academy, Folkestone
+- [ ] Folkestone St. Mary's Church of England Primary Academy
+- [ ] St Eanswythe's Church of England Primary School
+- [ ] Kemsley Primary Academy
+- [ ] Milton Court Primary Academy
+- [ ] Temple Ewell Church of England Primary School
+- [ ] Wrotham School
+- [ ] Trinity School
+- [ ] Leigh Academy Hartley
+- [ ] Wye School
+- [ ] Copperfield Academy
+- [ ] The Wells Free School
+- [ ] Hadlow Rural Community School
+- [ ] Petham Primary School
+- [ ] Archbishop Courtenay Primary School
+- [ ] Cliftonville Primary School
+- [ ] Tymberwood Academy
+- [ ] Valley Invicta Primary School At Aylesford
+- [ ] Furley Park Primary Academy
+- [ ] Hamstreet Primary Academy
+- [ ] Thistle Hill Academy
+- [ ] Valley Invicta Primary School At Leybourne Chase
+- [ ] Valley Invicta Primary School at Holborough Lakes
+- [ ] Valley Invicta Primary School At Kings Hill
+- [ ] Martello Primary
+- [ ] St Joseph's Catholic Primary School, Aylesham
+- [ ] South Avenue Primary School
+- [ ] St Simon Stock Catholic School
+- [ ] The Brent Primary School
+- [ ] The Gateway Primary Academy
+- [ ] The Skinners' School
+- [ ] St Gregory's Catholic School
+- [ ] St Joseph's Catholic Primary School, Broadstairs
+- [ ] Whitehill Primary School
+- [ ] St Gregory's Catholic Primary School, Margate
+- [ ] St Anselm's Catholic School, Canterbury
+- [ ] Bobbing Village School
+- [ ] Iwade School
+- [ ] The Holy Family Catholic Primary School
+- [ ] The Leigh UTC
+- [ ] Jubilee Primary School
+- [ ] St Mary's Catholic Primary School
+- [ ] St Simon of England Roman Catholic Primary School, Ashford
+- [ ] Skinners' Kent Primary School
+- [ ] St Margaret Clitherow Catholic Primary School
+- [ ] St Thomas' Catholic Primary School, Sevenoaks
+- [ ] Reculver Church of England Primary School
+- [ ] St Edmund's Catholic School
+- [ ] St Mary of Charity CofE (Aided) Primary School
+- [ ] Adisham Church of England Primary School
+- [ ] Kennington Church of England Academy
+- [ ] St Edward's Catholic Primary School
+- [ ] St Peter's Catholic Primary School
+- [ ] More Park Catholic Primary School
+- [ ] St Richard's Catholic Primary School
+- [ ] Our Lady of Hartley Catholic Primary School, Hartley, Longfield
+- [ ] Leigh Academy Dartford
+- [ ] Lansdowne Primary School
+- [ ] Shorne Church of England Primary School
+- [ ] St Botolph's Church of England Primary School
+- [ ] St Joseph's Catholic Primary School, Northfleet
+- [ ] Ursuline College
+- [ ] Stella Maris Catholic Primary School
+- [ ] South Borough Primary School
+- [ ] Charlton Church of England Primary School
+- [ ] Lydd Primary School
+- [ ] Godinton Primary School
+- [ ] Chilton Primary School
+- [ ] Beaver Green Primary School
+- [ ] Finberry Primary School
+- [ ] Istead Rise Primary School
+- [ ] Ramsgate Arts Primary School
+- [ ] St John's Catholic Primary School, Gravesend
+- [ ] St Mary's Catholic Primary School, Whitstable
+- [ ] Leigh Academy Langley Park
+- [ ] Culverstone Green Primary School
+- [ ] Dymchurch Primary School
+- [ ] Riverview Infant School
+- [ ] St Georges CofE (Aided) Primary School
+- [ ] Kingsnorth Church of England Primary School
+- [ ] Leigh Academy Cherry Orchard
+- [ ] Manor Community Primary School
+- [ ] Westgate Primary School
+- [ ] Brenchley and Matfield Church of England Primary School
+- [ ] St Nicholas Church of England Primary Academy
+- [ ] Woodlands Primary School
+- [ ] Barming Primary School
+- [ ] Priory Fields School
+- [ ] St Martin's School
+- [ ] Oakfield Primary Academy
+- [ ] Temple Hill Primary Academy
+- [ ] Upton Junior School
+- [ ] Brenzett Church of England Primary School
+- [ ] Halfway Houses Primary School
+- [ ] Minster in Sheppey Primary School
+- [ ] Tenterden Infant School
+- [ ] St Michael's Church of England Primary School
+- [ ] Tenterden Church of England Junior School
+- [ ] The Lenham School
+- [ ] Leybourne, St Peter and St Paul Church of England Primary Academy
+- [ ] Westcourt Primary School
+- [ ] The Charles Dickens School
+- [ ] Stone St Mary's CofE Primary School
+- [ ] Horton Kirby Church of England Primary School
+- [ ] Dartford Grammar School for Girls
+- [ ] The Whitstable School
+- [ ] St Teresa's Catholic Primary School
+- [ ] Valley Invicta Primary School At East Borough
+- [ ] Royal Rise Primary School
+- [ ] Bishop Chavasse Primary School
+- [ ] West Hill Primary Academy
+- [ ] School of Science and Technology Maidstone
+- [ ] Charing Church of England Primary School
+- [ ] St Augustine's Catholic Primary School
+- [ ] Borden Church of England Primary School
+- [ ] Bredgar Church of England Primary School
+- [ ] Minterne Junior School
+- [ ] The Oaks Infant School
+- [ ] Sutton-At-Hone Church of England Primary School
+- [ ] Morehall Primary School and Nursery
+- [ ] Richmond Primary School
+- [ ] Knockhall Primary School
+- [ ] St Mark's Church of England Primary School, Eccles
+- [ ] Chilmington Green Primary School
+- [ ] Vale View Community School
+- [ ] Folkestone Academy
+- [ ] Wrotham Road Primary School
+- [ ] Turner Free School
+- [ ] Pilgrims' Way Primary School
+- [ ] Edenbridge Primary School
+- [ ] Coxheath Primary School
+- [ ] Loose Primary School
+- [ ] Rosherville Church of England Academy
+- [ ] Fordcombe Church of England Primary School
+- [ ] Greenlands Primary School
+- [ ] Goodwin Academy
+- [ ] All Soul's Church of England Primary School
+- [ ] Deal Parochial Church of England Primary School
+- [ ] Hornbeam Primary School
+- [ ] Northbourne Church of England Primary School
+- [ ] Sandown School
+- [ ] Sholden Church of England Primary School
+- [ ] The Downs Church of England Primary School
+- [ ] Stone Lodg
+
+
